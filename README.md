@@ -6,7 +6,7 @@ NFT민팅과 NFT 판매 사이트 세련되고 개성있고 감각적인 디자�
 배포주소 : https://pfp-project1.vercel.app/
 
 ## 활용기술
-React TypeScript,Solidity,tailwind css;
+React TypeScript / Solidity / tailwind CSS;
 
 ## 특징 및 기능
 특징 : 메인 랜딩페이지와 백그라운드를 vhs glitch로 web3갬성 디자인과 사용자 편의를 위한 랜딩페이지 판매권한 획득 모달 구현
