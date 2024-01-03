@@ -9,5 +9,6 @@ React TypeScript,Solidity,tailwind css;
 
 ## 특징 및 기능
 특징 : 메인 랜딩페이지와 백그라운드를 vhs glitch로 web3갬성 디자인과 사용자 편의를 위한 랜딩페이지 판매권한 획득 모달 구현
+
 기능 : 두 눈을 사로잡는 NFT 자세히 보기 페이지 
 
